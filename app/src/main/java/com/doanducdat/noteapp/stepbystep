@@ -1,0 +1,4 @@
+sau khi import thu vien trong gradle
+1. tao class Note + annotation(@Entity): tao Mo hinh bang
+2. Tao DAO(interface CRUD) va ROOMDATABASE(class NoteDatabase:RoomDatabase)
+3. tao REPOSITORY AND VIEWMODEL
